@@ -47,6 +47,7 @@ Created and deployed a personal portfolio website to showcase projects, skills, 
 ## 📫 Contact Me
 
 - GitHub: [github.com/MeieiShaw](https://github.com/MeieiShaw)
+- GitHub: [github.com/MeieiShaw2](https://github.com/MeieiShaw2)
 - Portfolio: [[your portfolio link here](https://www.mingruixiao.com.au/)]
 - LinkedIn: [[your linkedin link here](https://www.linkedin.com/in/mingruixiao/)]
 
